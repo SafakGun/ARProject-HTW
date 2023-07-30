@@ -6,7 +6,7 @@ MemorizenPredict is an application developed for the Augmented Reality course of
 
 ### Training Part
 
-Upon opening the app, users are presented with the Training Part, which allows them to scan 20 pre-uploaded image targets from the Vuforia database. When an image target for a school object is detected, a corresponding 3D model appears on the screen. On the left side, there are four buttons displaying the names of the objects in the four supported languages. Users can select a language by clicking on one of these buttons, and the chosen language is shown in the top-right corner.
+Upon opening the app, users are presented with the Training Part, which allows them to scan 20 pre-uploaded image targets (19 for objects 1 to start the Testing Part) from the Vuforia database. When an image target for a school object is detected, a corresponding 3D model appears on the screen. On the left side, there are four buttons displaying the names of the objects in the four supported languages. Users can select a language by clicking on one of these buttons, and the chosen language is shown in the top-right corner.
 
 After selecting a language, users can click on any of the language buttons to mark their choice. Clicking the "Pronounce" button allows users to hear the pronunciation of the selected language. The Training Part continues until the "Start" image target is detected, signaling the transition to the Testing Part.
 
