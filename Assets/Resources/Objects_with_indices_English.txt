@@ -1,0 +1,19 @@
+Coffee mug:504
+Ballpoint:418
+Mouse:673
+Ruler:769
+Pencil Sharpener:710
+Water Bottle:898
+Eraser:767
+Pencil Box:709
+Keyboard:508
+Banana:954
+Wallet:893
+Spoon:618
+Fork:813
+Hat:515
+Orange:950
+Strawberry:949
+Laptop:620
+Desk:526
+Desktop Computer:527

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pencil_sharpener" size="1.000000 1.582205" />
+    <ImageTarget name="desktop_computer" size="1.000000 1.667961" />
+    <ImageTarget name="strawberry" size="1.000000 1.586074" />
+    <ImageTarget name="water_bottle" size="1.000000 1.656977" />
+    <ImageTarget name="coffee_mug" size="1.000000 1.668616" />
+    <ImageTarget name="wallet" size="1.000000 1.610137" />
+    <ImageTarget name="desk" size="1.000000 1.610895" />
+    <ImageTarget name="pencil_box" size="1.000000 1.698630" />
+    <ImageTarget name="orange" size="1.000000 1.635644" />
+    <ImageTarget name="hat" size="1.000000 1.607422" />
+    <ImageTarget name="start" size="1.000000 1.821747" />
+    <ImageTarget name="spoon" size="1.000000 1.611650" />
+    <ImageTarget name="ruler" size="1.000000 1.663386" />
+    <ImageTarget name="mouse" size="1.000000 1.608031" />
+    <ImageTarget name="laptop" size="1.000000 1.624514" />
+    <ImageTarget name="keyboard" size="1.000000 1.598470" />
+    <ImageTarget name="fork" size="1.000000 1.605469" />
+    <ImageTarget name="eraser" size="1.000000 1.645098" />
+    <ImageTarget name="banana" size="1.000000 1.643275" />
+    <ImageTarget name="ballpoint" size="1.000000 1.648649" />
+  </Tracking>
+</QCARConfig>

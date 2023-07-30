@@ -1,0 +1,19 @@
+Tasse à café:504
+Stylo à bille:418
+Souris:673
+Règle:769
+Taille-crayon:710
+Bouteille d'eau:898
+Gomme:767
+Trousse:709
+Clavier:508
+Banane:954
+Portefeuille:893
+Cuillère:618
+Fourchette:813
+Chapeau:515
+Orange:950
+Fraise:949
+Ordinateur portable:620
+Bureau:526
+Ordinateur de bureau:527

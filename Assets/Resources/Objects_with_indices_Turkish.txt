@@ -1,0 +1,19 @@
+Kupa:504
+Tükenmez kalem:418
+Fare:673
+Cetvel:769
+Kalemtıraş:710
+Su Şişesi:898
+Silgi:767
+Kalem kutusu:709
+Klavye:508
+Muz:954
+Cüzdan:893
+Kaşık:618
+Çatal:813
+Şapka:515
+Portakal:950
+Çilek:949
+Dizüstü bilgisayar:620
+Masa:526
+Masaüstü bilgisayar:527
