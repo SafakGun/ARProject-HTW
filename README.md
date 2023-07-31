@@ -28,7 +28,7 @@ After selecting a language, clicking the "Pronounce" button allows users to hear
       <img src="https://github.com/SafakGun/ARProject-HTW/assets/99952412/538344c3-7450-4227-8f04-9eea03e3f73a" alt="Water Bottle">
     </td>
     <td>
-      <img src="https://github.com/SafakGun/ARProject-HTW/assets/99952412/dbc68b70-5987-4787-b193-1167e5d26116" alt="Ballpoint">
+      <img src="https://github.com/SafakGun/ARProject-HTW/assets/99952412/7bb8a99a-a73a-460e-9ccf-b56134a5fce3" alt="Start">
     </td>
   </tr>
 </table>
