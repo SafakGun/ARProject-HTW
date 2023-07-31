@@ -14,10 +14,25 @@ Upon opening the app, users are presented with the Training Part, which allows t
 
 After selecting a language, clicking the "Pronounce" button allows users to hear the pronunciation of the selected language. The Training Part continues until the "Start" image target is detected, signaling the transition to the Testing Part.
 
-![Wallet](https://github.com/SafakGun/ARProject-HTW/assets/99952412/89404f0f-f433-44c3-9fcd-5150018a90b2)
-![Ballpoint](https://github.com/SafakGun/ARProject-HTW/assets/99952412/a0b3b535-11b8-4d07-83cf-44a1d2c65ce7)
-![Water_Bottle](https://github.com/SafakGun/ARProject-HTW/assets/99952412/538344c3-7450-4227-8f04-9eea03e3f73a)
-![Ballpoint](https://github.com/SafakGun/ARProject-HTW/assets/99952412/dbc68b70-5987-4787-b193-1167e5d26116)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/SafakGun/ARProject-HTW/assets/99952412/89404f0f-f433-44c3-9fcd-5150018a90b2" alt="Wallet">
+    </td>
+    <td>
+      <img src="https://github.com/SafakGun/ARProject-HTW/assets/99952412/a0b3b535-11b8-4d07-83cf-44a1d2c65ce7" alt="Ballpoint">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/SafakGun/ARProject-HTW/assets/99952412/538344c3-7450-4227-8f04-9eea03e3f73a" alt="Water Bottle">
+    </td>
+    <td>
+      <img src="https://github.com/SafakGun/ARProject-HTW/assets/99952412/dbc68b70-5987-4787-b193-1167e5d26116" alt="Ballpoint">
+    </td>
+  </tr>
+</table>
+
 
 ### Testing Part
 
