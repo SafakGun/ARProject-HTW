@@ -36,11 +36,13 @@ Users can continue making predictions by clicking the "New Prediction" button. W
 - However, there are 1000 pre-trained objects in that model. Since it will take too much time to create 1000 3D objects and 1000 image targets for the first part and it won’t be possible to test    the objects like pirate ship or great white shark, we decided to create a concept which is “School Objects” with 19 objects taken from the labels map file. 
 - The app is designed to work with 19 school objects, and separate label map text files have been created for the four supported languages.
 - Pronunciation audio, correct and wrong sound effects, flag images, and object label map text files can be found in the "Resources" folder.
-- The good part about using machine learning is that any type of these 19 objects in the world can be detected by this model and it can be used in different classes, schools, universities etc.      (For instance, Volvic, Ja, Rewe or Kaufland water bottles are predicted as water bottle regardless their shape.) 
+- The good part about using machine learning is that any type of these 19 objects in the world can be detected by this model and it can be used in different classes, schools, universities etc.      (For instance, Volvic, Ja, Rewe or Kaufland water bottles are predicted as water bottle regardless their different shapes.) 
 - The app is currently designed for Android devices only.
 - When the github repo is downloaded, some of the parts which are related to AR camera, image targets and 3D Objects on the scene are not installed so the project is not running. Also, the          scripts and the game objects are not attached. Therefore, we also created a drive link where you can download the project files and run on your local device.
 - The drive link also includes the apk file, image targets, demo video, and screenshots from the app.
 - Please note that when you open the apk file, rotate your phone to horizontal mode to ensure proper display of buttons on the screen.
+- Don't forget to try the app with the objects at your home :).
+- The 19 objects that you can try ( coffee mug, ballpoint, computer mouse, ruler, pencil sharpener, water bottle, eraser, pencil box, computer keyboard, banana, wallet, spoon, fork, hat, orange,    strawberry, laptop, desk, desktop computer )
 
 ## Drive Link
 
