@@ -29,10 +29,25 @@ Once the object is displayed on the screen and one of the supported languages is
 
 Users can continue making predictions by clicking the "New Prediction" button. When they wish to see their overall results, they can click the "Show Results" button, which displays the number of correct and wrong answers. Additionally, there is a "Close" button to close the app.
 
-![3](https://github.com/SafakGun/ARProject-HTW/assets/99952412/38bbde71-5961-4415-a00a-348578327aee)
-![5](https://github.com/SafakGun/ARProject-HTW/assets/99952412/53ec6e34-fd35-46fc-85b0-e83144da0f00)
-![9](https://github.com/SafakGun/ARProject-HTW/assets/99952412/759848d4-baa2-427b-9a79-795436f66e31)
-![10](https://github.com/SafakGun/ARProject-HTW/assets/99952412/07ea0492-4b9c-4ecd-8def-5ba0095ce389)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/SafakGun/ARProject-HTW/assets/99952412/38bbde71-5961-4415-a00a-348578327aee" alt="Image 3">
+    </td>
+    <td>
+      <img src="https://github.com/SafakGun/ARProject-HTW/assets/99952412/53ec6e34-fd35-46fc-85b0-e83144da0f00" alt="Image 5">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/SafakGun/ARProject-HTW/assets/99952412/e982fa2e-bcdb-4d31-be24-40a99007b32f" alt="Image 6">
+    </td>
+    <td>
+      <img src="https://github.com/SafakGun/ARProject-HTW/assets/99952412/07ea0492-4b9c-4ecd-8def-5ba0095ce389" alt="Image 10">
+    </td>
+  </tr>
+</table>
+
 
 ## Important Notes
 
