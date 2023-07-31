@@ -52,5 +52,5 @@ For access to the project files, the apk file, image targets, demo video, and sc
 
 For access to the pre-trained machine learning model and its labels that are used in this project, please visit the provided link.
 
-[Github Repository] (https://github.com/onnx/models.git)
+[Github Repository](https://github.com/onnx/models.git)
 
