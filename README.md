@@ -44,9 +44,9 @@ Users can continue making predictions by clicking the "New Prediction" button. W
 
 ## Drive Link
 
-For access to the project files, including the apk file, image targets, demo video, and screenshots, please visit the provided drive link.
+For access to the project files, the apk file, image targets, demo video, and screenshots from the app, please visit the provided drive link.
 
-[Drive Link](https://drive.google.com/drive/folder/your-drive-folder)
+[Drive Link]([https://drive.google.com/drive/folder/your-drive-folder](https://drive.google.com/drive/folders/14zQkM7RQl525EMlMermGp4ZH6nGA13xC?usp=sharing))
 
 ## ONNX Model (Efficientnet-lite4-11) Github Repository
 
