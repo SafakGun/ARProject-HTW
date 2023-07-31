@@ -15,6 +15,9 @@ Upon opening the app, users are presented with the Training Part, which allows t
 After selecting a language, clicking the "Pronounce" button allows users to hear the pronunciation of the selected language. The Training Part continues until the "Start" image target is detected, signaling the transition to the Testing Part.
 
 ![Wallet](https://github.com/SafakGun/ARProject-HTW/assets/99952412/89404f0f-f433-44c3-9fcd-5150018a90b2)
+![Ballpoint](https://github.com/SafakGun/ARProject-HTW/assets/99952412/a0b3b535-11b8-4d07-83cf-44a1d2c65ce7)
+![Water_Bottle](https://github.com/SafakGun/ARProject-HTW/assets/99952412/538344c3-7450-4227-8f04-9eea03e3f73a)
+![Ballpoint](https://github.com/SafakGun/ARProject-HTW/assets/99952412/dbc68b70-5987-4787-b193-1167e5d26116)
 
 ### Testing Part
 
@@ -27,6 +30,9 @@ Once the object is displayed on the screen and one of the supported languages is
 Users can continue making predictions by clicking the "New Prediction" button. When they wish to see their overall results, they can click the "Show Results" button, which displays the number of correct and wrong answers. Additionally, there is a "Close" button to close the app.
 
 ![3](https://github.com/SafakGun/ARProject-HTW/assets/99952412/38bbde71-5961-4415-a00a-348578327aee)
+![5](https://github.com/SafakGun/ARProject-HTW/assets/99952412/53ec6e34-fd35-46fc-85b0-e83144da0f00)
+![9](https://github.com/SafakGun/ARProject-HTW/assets/99952412/759848d4-baa2-427b-9a79-795436f66e31)
+![10](https://github.com/SafakGun/ARProject-HTW/assets/99952412/07ea0492-4b9c-4ecd-8def-5ba0095ce389)
 
 ## Important Notes
 
