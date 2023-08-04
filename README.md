@@ -4,7 +4,7 @@
   <img src="https://github.com/SafakGun/ARProject-HTW/assets/99952412/44b61a24-a620-41a1-a305-fb4425c79f36" alt="playstore" width="200" height="200">
 </p>
 
-MemorizenPredict is an application developed for the Augmented Reality course of HTW (Hochschule für Technik und Wirtschaft Berlin). The app aims to assist language learners in memorizing school objects' names in four different languages (English, German, Turkish, and French) using augmented reality and machine learning techniques.
+MemorizenPredict is an application developed for the Augmented Reality course of HTW (Hochschule für Technik und Wirtschaft Berlin). The app aims to assist language learners in memorizing school objects' names in four different languages (English, German, Turkish, and French) using augmented reality and machine learning techniques. Group members for the project are Şafak Gün, Théo Choffat and Ismael Jaggi.
 
 ## Features
 
